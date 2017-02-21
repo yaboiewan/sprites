@@ -1,4 +1,4 @@
-* IDEA135: Games at Work*
+*IDEA135: Games at Work*
 
 
 # Sketch 7: Sprite Sheets
@@ -17,18 +17,34 @@ static). On this page, describe each sprite in exactly one sentence.**
 
 ## Rules
 1. Your collection should include at least five sprites. Requirements:
-  a. At least *one* player character (does not need not be human, may be abstract)
-  b. At least *one* piece of scenery (could be something small, or could be an entire game board)
-  c. At least *one* object that can be collected, used, or possessed.
-  d. At least *three* of your sprites should be animated.
-2. The size of your sprites should not exceed 64  x 64 pixels per frame. They can be smaller. They do not have to be square.
-3. Each sprite should be saved in four different ways. Create a folder for all files and upload to GitHub.
+   a. At least *one* player character (does not need not be human, may
+      be abstract)
+   b. At least *one* piece of scenery (could be something small, or
+      could be an entire game board)
+   c. At least *one* object that can be collected, used, or possessed.
+
+   d. At least *three* of your sprites should be animated.
+
+2. The size of your sprites should not exceed 64 x 64 pixels per
+frame. They can be smaller. They do not have to be square.
+
+3. Each sprite should be saved in four different ways. Create a folder
+for all files and upload to GitHub.
+
    a. Source document (.psd or .piskel)
    b. Static or animated GIF (.gif)
-   c. A single page “sprite sheet” with all frames of the image in a grid (.png)
-      NOTE: This file will be larger than 64 x 64 px if the image is animated.
-   e. An “image sequence” with a separate file for each frame of each sprite. Name your files with an underscore and a number. For instance: face_01.png, face_02.png, face_03.png. (.png)
-4. Display the GIFs on a web page that contains the paragraph-long description of your game and the sentences about each GIF. Fork and modify the GitHub project and post the link to your page on the class blog.
+   c. A single page "sprite sheet" with all frames of the image in a grid (.png)
+      NOTE: This file will be larger than 64x64 px if the image is animated.
+
+   e. An "image sequence" with a separate file for each frame of each
+      sprite. Name your files with an underscore and a number. For instance:
+      face_01.png, face_02.png, face_03.png. (.png)
+   
+4. Display the GIFs on a web page that contains the paragraph-long
+description of your game and the sentences about each GIF. Fork and
+modify the GitHub project and post the link to your page on the class
+blog.
+
 
 ## Learning Objectives
 - More practice with illustration and animation using WYSIWYG editing software.
