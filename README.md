@@ -25,8 +25,7 @@ static). On this page, describe each sprite in exactly one sentence.**
     * At least *three* of your sprites should be animated.
 2. The size of your sprites should not exceed 64 x 64 pixels per
 frame. They can be smaller. They do not have to be square.
-3. Each sprite should be saved in four different ways. Create a folder
-for all files and upload to GitHub.
+3. Each sprite should be saved in four different ways. 
     * Source document (.psd or .piskel)
     * Static or animated GIF (.gif)
     * A single page "sprite sheet" with all frames of the image in a grid (.png)
