@@ -1,0 +1,1 @@
+Photoshop (.psd) or Piskel (.piskel) files.
